@@ -1,0 +1,20 @@
+{
+  "name": "learn-test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script1.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "isomorphic-fetch": "^3.0.0",
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest ./*test.js",
+    "watch": "jest --watch ./*test.js",
+    "coverage": "npm test -- --coverage"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
