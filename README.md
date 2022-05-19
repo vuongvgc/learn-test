@@ -12,3 +12,4 @@
 # assertions
 # toBe
 # toEqual
+https://levelup.gitconnected.com/start-testing-your-javascript-code-with-jest-81e04f546a3e
