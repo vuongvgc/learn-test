@@ -6,7 +6,9 @@
 - Test function
 - Test API
 - Test methold
-it
-expect
-describe
-assertions
+# it
+# expect
+# describe
+# assertions
+# toBe
+# toEqual
